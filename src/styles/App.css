@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap");
+
+body {
+  font-family: "EB Garamond", serif;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+hr {
+  margin-top: 5px;
+}
+
+#resume-form {
+  width: 50%;
+}
+
+#resume-display {
+  width: 50%;
+  padding: 0 30px;
+  text-align: center;
+  box-shadow: 3px 3px 3px 3px #9d9d9d;
+}

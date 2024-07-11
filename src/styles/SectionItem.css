@@ -1,0 +1,11 @@
+.item-header,
+.item-subheader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.item-header h3,
+.item-header p {
+  margin: 0;
+}
